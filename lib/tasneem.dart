@@ -16,7 +16,7 @@ class BusinessCardApp extends StatelessWidget {
           backgroundColor: const Color.fromARGB(255, 10, 10, 10),
           title: const Text('Busniess Card'),
         ),
-        backgroundColor: const Color(0xffccae6b),
+        backgroundColor: Color.fromARGB(255, 133, 105, 43),
         body: Column(
           children: [
             CircleAvatar(
